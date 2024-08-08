@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  
+}
+.mainbox{
+    height: 900px;
+    width:100%;
+    background-color:rgb(153, 255, 0);
+}
+.navBar{
+    width: 100%;
+    height: 50px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    
+}
+.rightnav{
+    width: 20%;
+    height: 50px;
+    background-color: burlywood;
+}
+.mid{
+    width: 50%;
+    height: 50px;
+    background-color: red;
+}
+.sreach{
+    width: 30%;
+    height: 50px;
+    background-color: blue;
+}
+.innerbox{
+    width: 50%;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+   
+}
+.scroll{
+    height: 300px;
+    width:100%;
+    display: flex;
+    gap: 30px;
+    background-color: black;
+}
+.box{
+    height:300px ;
+    width:20% ;
+    background-color: aqua;
+}
+.Explore {
+    height: 80%;
+    width: 100%;
+    background-color: darkmagenta;
+}

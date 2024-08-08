@@ -1,0 +1,20 @@
+.box1{
+    border: soild;
+    width: 500px;
+    height: 700px;
+    background-color: beige;
+    margin: auto;
+    border: groove;
+    box-shadow: 5px 10px 10px 10px gray;
+    border-radius: 30px;
+
+    
+}
+.box2{
+   
+  margin: auto;
+  padding: 50px;
+  font-size: 16px;
+  color: blue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
